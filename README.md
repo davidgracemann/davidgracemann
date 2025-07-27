@@ -8,7 +8,7 @@ I'm **David Grace** (`davidgracemann`), Chief Engineer at Gracemann, and owner o
 
 **1. Owner of [Gracemann](https://github.com/gracemann365)** — Managing and directing the organization's strategic development  
 **2. Personal Projects** — Brainstorming ideas and delusional designs  
-**3. Competitive Programming** — Building cognitive capabilities through algorithmic challenges on [Leetcode](https://leetcode.com/u/Gracemann365/)
+**3. Competitive Programming** — Building cognitive capabilities through algorithmic challenges on [Leetcode](https://leetcode.com/u/Gracemann365/)  
 **4. Legacy Maintenance** — Older projects from my fintech engineering journey  
 
 ---
