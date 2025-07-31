@@ -6,8 +6,8 @@ I'm **David Grace** (`davidgracemann`), Chief Engineer at Gracemann, and owner o
 
 # My Vision 
 
-**I Don't Want To Win , The Fight Is Pleasure**
-**May My Struggle Never End !**
+**I Don't Want To Win , The Fight Is The Pleasure**
+### **May My Struggle Never End !**
 
 ---
 
