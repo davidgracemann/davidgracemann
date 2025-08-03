@@ -1,34 +1,27 @@
 # David Grace 
-## Chief Engineer @ Gracemann
+## Chief Engineer @ [Gracemann](https://github.com/gracemann365)
 
-I'm **David Grace** (`davidgracemann`), Chief Engineer at Gracemann, and owner of the [Gracemann](https://github.com/gracemann365) organization. This is my personal development space for experiments, legacy projects, and competitive programming.
+- I'm **David Grace** (`davidgracemann`), Chief Engineer at Gracemann, and owner of the [Gracemann](https://github.com/gracemann365) organization.
+- Our research organization's 6-year vision with a 3+ million USD goal of developing deterministic AI and ultimately achieving AGI
+- This is my Personal Space Hence Standalone to Any Organisational Work Done at Gracemann
 
 ---
 
 # Vision 
 
-**I Don't Want To Win , The Fight Is The Pleasure**
-### **May My Struggle Never End !**
-
+> **I Don't Want To Win , The Fight Is The Pleasure Therefore May My Struggle Never End !**
 ---
 
-## [Gracemann](https://github.com/gracemann365)
-
- Our research organization's 6-year vision with a 3+ million USD goal of developing deterministic AI and ultimately achieving AGI
-
----
-
-## Why Personal Account ?
+# Purpose 
 
 **1. Owner of [Gracemann](https://github.com/gracemann365)** — Managing and directing the organization's strategic development  
-**2. Personal Projects** — Brainstorming ideas and delusional designs  
+**2. Private Research & Products** — Private Research Labs , Products Independant and Standalone to Gracemann Organisation  
 **3. Competitive Programming** — Building cognitive capabilities through algorithmic challenges on [Leetcode](https://leetcode.com/u/Gracemann365/)  
-**4. Legacy Maintenance** — Older projects from my fintech engineering journey as reminder once I cared about banking 
+**4. Legacy Maintenance** — Older projects from my Fintech Engineering journey as reminder once I cared about Banking 
 
 ---
-## Cybernetic Stack July 2025
-
-### Primary Tools
+# Cybernetic Stack 
+__July 2025__
 
 | Tool | Type | Status | Cost | Description |
 |------|------|--------|------|-------------|
