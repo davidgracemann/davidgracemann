@@ -6,7 +6,7 @@
 - This is my Personal Space Hence Standalone to Any Organisational Work Done at Gracemann
 ---
 # Vision 
-> **I Don't Want To Win , The Fight Is The Pleasure Therefore May My Struggle Never End !**
+> **I Don't Want To Win , The Pain Is The Pleasure Therefore May My Suffering Never End !**
 ---
 
 
