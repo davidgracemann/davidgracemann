@@ -1,0 +1,139 @@
+% resume.tex
+% Updates:
+% - Fixed spacing issues between sections and subsections
+% - Consistent spacing throughout the document
+% - Removed excessive blank spaces
+
+\documentclass[11pt]{article}
+\usepackage[left=0.5in,right=0.5in,top=0.4in,bottom=0.4in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx} % Times New Roman font
+\usepackage[x11names]{xcolor}
+\renewcommand\familydefault{\rmdefault}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{nopageno}
+\usepackage{ulem}
+
+% Spacing adjustments
+\setstretch{0.95}
+\setlength{\parskip}{0pt} % Remove paragraph skip to control spacing manually
+
+% Heading color definition
+\definecolor{headingblue}{RGB}{0,102,204}
+
+% Section formatting: blue, large, bold, unnumbered
+\titleformat{\section}[block]
+  {\color{headingblue}\bfseries\large}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1.5ex}{0.8ex} % Consistent section spacing
+
+% Subsection formatting: black, large, bold, unnumbered
+\titleformat{\subsection}[block]
+  {\bfseries\large}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{0.8ex}{0.3ex} % Consistent subsection spacing
+
+\begin{document}
+
+% Header
+\begin{center}
+  {\LARGE \bf{David Grace}}\\[1ex]
+  {\large gracemann365@gmail.com\quad \quad +91-7593822111\quad \quad \href{https://linkedin.com/in/david-grace}{linkedin.com/in/david-grace}} \quad \quad
+ \href{https://github.com/gracemann365}{github.com/gracemann365} 
+\end{center}
+
+% SKILLS SECTION
+\section*{\makebox[\linewidth]{\uline{\hfill SKILLS\hfill}}}
+\noindent
+\textbf{AI : } Deep Learning, LLMs, Transformers, NLP, RL \& CV, NumPy, scikit-learn, PyTorch, LangChain, Hugging Face \\[0.3ex]
+\textbf{GEN-AI : } Prompt \& Context Engg, RAG, Fine-tuning, Multimodal AI, Vector DBs, AI Agents, Embeddings, RLHF\\[0.3ex]
+\textbf{DEV : } Java, Spring Boot, Microservices, Distributed Systems, Python, FastAPI, Golang, Gin, TypeScript, React, Linux\\[0.3ex]
+\textbf{DB, DevOps : } PostgreSQL, Pinecone, MongoDB, Redis, Kafka, Terraform, AWS, Docker, Kubernetes, CI/CD, Git
+
+% WORK EXPERIENCE SECTION
+\section*{\makebox[\linewidth]{\uline{\hfill WORK EXPERIENCE\hfill}}}
+\vspace{0.5em}
+\subsection*{\makebox[\textwidth][s]{%
+  Chief Engineer ( Quant | AGI | Defense ) - \href{https://github.com/gracemann365}{Graceman ( Research Labs )}
+  \hfill \bf{Jan 2023 – Present }%
+}}
+\begin{itemize}[itemsep=0.2ex,leftmargin=*,topsep=0pt]
+  \item \textbf{Architected a Deterministic Framework} to reduce uncertainty for LRM-orchest Quant Trading Cybernetics Systems  
+  \textbf{Engineering a Preemptive Threat Resolution Model} via \textbf{Stochastic Manifold Analysis} for US Army (Defense Contr)
+  \textbf{Building a Deterministic System} for Autonomous, Prod-grade Code Synthesis, via \textbf{Graph Mapping} \& \textbf{eBPF-OS INT}
+\end{itemize}
+\vspace{0.1em}
+\subsection*{\makebox[\textwidth][s]{%
+  Associate Engineer ( Fintech | US Banking | Bank Infra ) - ECS Fin Inc
+  \hfill \bf{Aug 2024 – Mar 2025}%
+}}
+\begin{itemize}[itemsep=0.2ex,leftmargin=*,topsep=0pt]
+  \item \textbf{Researched BFSI stack}: UPI flows; \textbf{Card Processing}; Cross-Border Settlements; \textbf{ISO 20022 \& 12007}; RTGS \& RTP.
+  \textbf{IMS Gateway (Forex) }: Reverse Engg \& POC Non Prod \textbf{IMS Gateway} MSG Hub with Spring MVC, Hibernate, Oracle
+\end{itemize}
+
+% OPEN SOURCE CONTRIBUTIONS SECTION
+\section*{\makebox[\linewidth]{\uline{\hfill OPEN SOURCE CONTRIBUTIONS \hfill}}}
+
+\subsection*{\makebox[\textwidth][s]{%
+  Google / Gemini-CLI ( 2x P1 Bugs Adopted To Google Public Roadmap )
+  \hfill \bf{July 2025}%
+}}
+\begin{itemize}[itemsep=0.1ex,leftmargin=*,topsep=0pt]
+  \item \uline{\textbf{\href{https://github.com/google-gemini/gemini-cli/issues/4279}{Shell Command Parsing Failure (\#4279)} | P1 Priority:}} Reverse-engg critical \texttt{bash -c} interpolation bug causing quoted Git arguments to tokenize incorrectly, triggering systematic CLI workflow crashes. Architected complete remediation.
+  \item \uline{\textbf{\href{https://github.com/google-gemini/gemini-cli/issues/4277}{WebSearchTool Crash Vulnerability (\#4277)} | P1 Priority:}} Analyzed prod crashes from unescaped quotation JSON malform in \textbf{Gemini API} payloads, traced E2E failure chain. Engg multi-layered fix with \textbf{regex-based sanitization}
+\end{itemize}
+\vspace{0.5em}
+\subsection*{\makebox[\textwidth][s]{%
+  \uline{\href{https://github.com/davidgracemann/FlossPay}{FlossPay ( Linux Kernel Of Payment Aggregators )}} - Author \& Core Maintainer
+  \hfill \bf{May 2025}%
+}}
+\begin{itemize}[itemsep=0.1ex,leftmargin=*,topsep=0pt]
+  \item \textbf{Enterprise Payment Infrastructure | 27 Stars, 5 Forks :} Engg a Payment Aggregator, with Audit Trails, Idempotency, Retry \& DLQ; Circuit-breaker \& Fault Tolerance patterns.
+  \textbf{Java 21 | Spring Boot | PostgreSQL | Redis | PCI-DSS | UPI}
+\end{itemize}
+\vspace{0.5em}
+\subsection*{\makebox[\textwidth][s]{%
+  \uline{\href{https://github.com/davidgracemann/Flossx83}{Flossx83 ( ISO 8583 Simulation Suite )}} - Author \& Core Maintainer
+  \hfill \bf{June 2025}%
+}}
+\begin{itemize}[itemsep=0.1ex,leftmargin=*,topsep=0pt]
+  \item \textbf{Card TXN Simulation Suite | 14 Stars:} Engg E2E ISO 8583 Card Switch Engine w/ TCP / HTTP Protocol support, HSM-grade AES256 tokenization \& RLT Fraud Detection via ML Microservice. In house PyQt5 POS/ATM GUI Simul \textbf{Java 21 | Spring Boot | PostgreSQL | HSM Tokenization | Python , FastAPI | ISO 8583 | SOX | Machine Learning}
+\end{itemize}
+
+% PROJECTS SECTION
+\section*{\makebox[\linewidth]{\uline{\hfill PROJECTS\hfill}}}
+
+\subsection*{\uline{\href{https://github.com/davidgracemann/reconengine-visa}{Two-Way Reconciliation Engine ( Visa Scheme vs Bank General Ledger )}}}
+\begin{itemize}[itemsep=0.1ex,leftmargin=*,topsep=0pt]
+ \item Engineered a \textbf{6-microservice distributed system} for mission-critical Reconciliation, processing millions of daily Scheme Vs GL  with a \textbf{ SLA : Sub-50ms P95 latency at 333 TPS with 99.5\% auto recon}.
+ Feat a hash-collision detection \& fuzzy matching , \textbf{Stream \& Batch Processing}, and CURING API for BankOps, Recon Report Generation \& Scheduler\\
+ \textbf{Java 21 | Spring Boot | Kafka | PostgreSQL | MinIO | Prometheus/Grafana | Docker | AWS | JUnit}
+\end{itemize}
+\vspace{0.25em}
+
+\subsection*{\uline{\href{https://github.com/davidgracemann/irsie}{IRSIE ( IRS Intelligence Engine - Small Language Model For IRS Tax )}}}
+\begin{itemize}[itemsep=0.1ex,leftmargin=*,topsep=0pt]
+\item Building a \textbf{Small Language Model} with fine-tuned 12-layer transformer (768d hidden) trained on 2.8B tokens from complete IRS regulatory corpus (2020-2024). 
+Integrated with \textbf{production RAG pipeline} achieving 94.2\% compliance accuracy and sub-200ms P95 latency for real-time tax code interpretation with deterministic validation.\\
+\textbf{PyTorch | Hugging Face | Pinecone | FastAPI | RLHF | 847 IRS Publications | RAG | High Perfomance Computing }
+\end{itemize}
+\vspace{0.25em}
+\subsection*{\uline{\href{https://github.com/davidgracemann/qaml}{Qaml ( Mathematical Primitive Transformer for Financial Crime Detection )}}}
+\begin{itemize}[itemsep=0.1ex,leftmargin=*,topsep=0pt]
+ \item Training a \textbf{65M-parameter transformer from Mathematical Primitives}, via scaled dot-product attention, custom auto-diff, \& FNNs eSLA \textbf{96.7\% suspicious pattern detection } w/ <50ms latency for RLT structuring, smurfing identification.\\
+ \textbf{ NumPy | Multi-Head Attention | Custom Autodiff | Softmax Normal | Chain Rule Backprop | FinCEN SAR Gen}
+\end{itemize}
+% EDUCATION SECTION
+\section*{\makebox[\linewidth]{\uline{\hfill EDUCATION\hfill}}}
+\noindent
+\large
+\textbf{B.TECH, Information Technology}%
+\hfill Government Engineering College Trivandrum%
+\hfill \textbf{CGPA: 7.61}%
+\hfill \textbf{2020--2024}
+\normalsize
+
+\end{document}  
