@@ -21,6 +21,43 @@
 > I have pivoted to **personal research**. No new Fintech/BankOps feature work is planned (maintenance-only).
 
 
+## Upcoming Updates & Projects
+
+### A. Infrastructure Updates (BankOps Hardening)
+
+Focusing on transitioning existing "BankOps" systems from standard microservices to formal, event-sourced architectures with enterprise-grade rigor.
+
+| Project | Current State | Hardening Objective |
+| --- | --- | --- |
+| **FlossPay** | Payment Aggregator | Implementing L4 circuit-breaking and DLQ patterns for PCI-DSS compliant fault tolerance. |
+| **Flossx83** | ISO 8583 Simulator | Integrating HSM-grade AES256 tokenization and RLT Fraud Detection via ML microservices. |
+| **Recon-Engine** | Distributed Recon | Upgrading to an event-sourced architecture with hash-collision detection for 99.5% auto-recon. |
+
+---
+
+### B. Proof of Concept & Design (AI Research)
+
+Advancing domain-specific AI models through fine-tuning and mathematical primitive research.
+
+| POC Name | Research Focus | Technical Goal |
+| --- | --- | --- |
+| **IRSIE** | SLM for Tax Jurisprudence | Fine-tuning a 12-layer transformer on 2.8B tokens with RLHF-tuned deterministic validation. |
+| **Qaml** | Mathematical Transformers | Training a 65M-parameter model from first principles for sub-50ms suspicious pattern detection. |
+
+---
+
+### C. New Projects ( POCD - Pending )
+
+Pioneering projects at the intersection of Multi-Agent Systems (MAS) and Systems Engineering for your upcoming research at TU Ilmenau.
+
+| Project Title | Category | Strategic Objective |
+| --- | --- | --- |
+| **Preemptive Threat Agent** | **Applied AI #2** | Architecting an autonomous agentic framework for defense simulations via Stochastic Manifold Analysis. |
+| **Graceman Graph-Map** | **Theoretical CS #1** | Formal verification of self-healing software states using TLA+ and recursive graph mapping. |
+
+---
+
+Would you like me to generate a **detailed technical breakdown** for the "Preemptive Threat Agent" to use as a standalone project highlight on your profile?
 ## Collaborate With Me 
 
 - Email: [gracemann365@gmail.com](mailto:gracemann365@gmail.com)
