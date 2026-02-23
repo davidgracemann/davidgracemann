@@ -56,7 +56,6 @@ Pioneering projects at the intersection of Multi-Agent Systems (MAS) and Systems
 
 ---
 
-Would you like me to generate a **detailed technical breakdown** for the "Preemptive Threat Agent" to use as a standalone project highlight on your profile?
 ## Collaborate With Me 
 
 - Email: [gracemann365@gmail.com](mailto:gracemann365@gmail.com)
