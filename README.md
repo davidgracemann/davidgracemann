@@ -36,8 +36,6 @@ Focusing on transitioning existing "BankOps" systems from standard microservices
 
 ### B. Proof of Concept & Design (AI Research)
 
-Advancing domain-specific AI models through fine-tuning and mathematical primitive research.
-
 | POC Name | Research Focus | Technical Goal |
 | --- | --- | --- |
 | **IRSIE** | SLM for Tax Jurisprudence | Fine-tuning a 12-layer transformer on 2.8B tokens with RLHF-tuned deterministic validation. |
@@ -46,8 +44,6 @@ Advancing domain-specific AI models through fine-tuning and mathematical primiti
 ---
 
 ### C. New Projects ( POCD - Pending )
-
-Pioneering projects at the intersection of Multi-Agent Systems (MAS) and Systems Engineering for your upcoming research at TU Ilmenau.
 
 | Project Title | Category | Strategic Objective |
 | --- | --- | --- |
