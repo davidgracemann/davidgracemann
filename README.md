@@ -13,12 +13,12 @@
 
 | PRIORITY | DOMAIN | FOCUS AREA | STRATEGIC ALLOCATION | STATUS |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | `FAiR` | Foundational AI Research | Multi-agent architectures, reasoning models, and core cognitive frameworks. | `[ CORE FOCUS ]` |
-| **02** | `AAi` | Applied AI | Proof-of-designs, end-to-end implementations, and empirical model evaluation. | `[ CORE FOCUS ]` |
-| **03** | `Q` | Quant & HPC | Low-latency engineering, numerical methods, and execution-grade infrastructure. | `[ FIN HEDGE ]` |
-| **04** | `SE` | Systems Engineering | Linux internals, edge-node networking, IaaC, and distributed system design. | `[ HOBBY ]` |
-| **05** | `FBOps`| Fintech & BankOps | Legacy open-source financial operations. Strictly limited to critical triage. | `[ LEGACY ]` |
-| **Dynamic** | `TMC` | Theoretical Math & Computing | Ring-fenced exclusively for MSc Research (Computer & Systems Engineering) at TU Ilmenau. | `[ ACADEMICS ]` |
+| **01** | `FAiR` | Foundational AI Research | Multi-agent architectures, reasoning models, and core cognitive frameworks. | `[CORE]` |
+| **02** | `AAi` | Applied AI | Proof-of-designs, end-to-end implementations, and empirical model evaluation. | `[CORE]` |
+| **03** | `Q` | Quant & HPC | Low-latency engineering, numerical methods, and execution-grade infrastructure. | `[FIN HEDGE]` |
+| **04** | `SE` | Systems Engineering | Linux internals, edge-node networking, IaaC, and distributed system design. | `[HOBBY]` |
+| **05** | `FBOps`| Fintech & BankOps | Legacy open-source financial operations. Strictly limited to critical triage. | `[LEGACY]` |
+| **Dynamic** | `TMC` | Theoretical Math & Computing | Ring-fenced exclusively for MSc Research (Computer & Systems Engineering) at TU Ilmenau. | `[ACADEMICS]` |
 
 ---
 
