@@ -1,56 +1,50 @@
 # David Grace
 
-## Vision
+## [ Vision ]
 
 > “I can’t guarantee you a win — but I can engineer systems that make failure mathematically expensive, bounded, and observable.”
 
-## Chief Engineer @ [Graceman](https://github.com/gracemann365)
-> I’m **David Grace** (`davidgracemann`) — Chief Engineer at **Graceman** and the owner/maintainer of the [Graceman](https://github.com/gracemann365) organization. This GitHub profile is my **personal** research space and is standalone from any organizational work done at Graceman
+## [ Chief Engineer ] @ [Graceman](https://github.com/gracemann365)
+> I’m **David Grace** (`davidgracemann`) — Chief Engineer at [Graceman](https://github.com/gracemann365) This GitHub profile is my **Personal Research & Engineering Space** 
+## [ RCSE ] @ [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/study/before-the-study/range-of-courses/master/research-in-computer-systems-engineering-msc)
+> Research Masters in Computer & Systems Engineering @ [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/study/before-the-study/range-of-courses/master/research-in-computer-systems-engineering-msc)
 
-## Research Masters in Computer & Systems Engineering @ [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/study/before-the-study/range-of-courses/master/research-in-computer-systems-engineering-msc)
+## [ Research & Engineering Portfolio ]
 
-## Domains
-
-| Domains Of Focus | What I do | Status / Notes | 
-|---|---|---|
-| Computer & Systems Engineering (Research) | Academic research aligned with my Master’s program at TU Ilmenau. | Active 🟢 ( Academia ) |
-| AI (Foundational + Applied) | Proof-of-designs, implementations, and applied research with rigorous evaluation where possible. | Active  🟢 ( Core Focus Domain )|
-| Quant + High-Performance Computing | Performance-first engineering, low-latency systems, numerical methods, execution-grade infrastructure . | Active  🟢 ( Honestly I need to eat and pay rent ) |
-| Legacy Fintech / BankOps | Maintenance-only support for older open-source contributions from earlier work. | Maintenance-only 🟡 ( For Old Time's Sake )|
-> I have pivoted to **personal research**. No new Fintech/BankOps feature work is planned (maintenance-only).
-
-
-## Upcoming Updates & Projects
-
-### A. Infrastructure Updates (BankOps Hardening)
-
-Focusing on transitioning existing "BankOps" systems from standard microservices to formal, event-sourced architectures with enterprise-grade rigor.
-
-| Project | Current State | Hardening Objective |
-| --- | --- | --- |
-| **FlossPay** | Payment Aggregator | Implementing L4 circuit-breaking and DLQ patterns for PCI-DSS compliant fault tolerance. |
-| **Flossx83** | ISO 8583 Simulator | Integrating HSM-grade AES256 tokenization and RLT Fraud Detection via ML microservices. |
-| **Recon-Engine** | Distributed Recon | Upgrading to an event-sourced architecture with hash-collision detection for 99.5% auto-recon. |
+| PRIORITY | DOMAIN | FOCUS AREA | STRATEGIC ALLOCATION | STATUS |
+| :--- | :--- | :--- | :--- | :--- |
+| **01** | `FAiR` | Foundational AI Research | Multi-agent architectures, reasoning models, and core cognitive frameworks. | `[ CORE FOCUS ]` |
+| **02** | `AAi` | Applied AI | Proof-of-designs, end-to-end implementations, and empirical model evaluation. | `[ CORE FOCUS ]` |
+| **03** | `Q` | Quant & HPC | Low-latency engineering, numerical methods, and execution-grade infrastructure. | `[ FIN HEDGE ]` |
+| **04** | `SE` | Systems Engineering | Linux internals, edge-node networking, IaaC, and distributed system design. | `[ HOBBY ]` |
+| **05** | `FBOps`| Fintech & BankOps | Legacy open-source financial operations. Strictly limited to critical triage. | `[ LEGACY ]` |
+| **Dynamic** | `TMC` | Theoretical Math & Computing | Ring-fenced exclusively for MSc Research (Computer & Systems Engineering) at TU Ilmenau. | `[ ACADEMICS ]` |
 
 ---
 
-### B. Proof of Concept & Design (AI Research)
+## [ Domain Aggregation ]
 
-| POC Name | Research Focus | Technical Goal |
-| --- | --- | --- |
-| **IRSIE** | SLM for Tax Jurisprudence | Fine-tuning a 12-layer transformer on 2.8B tokens with RLHF-tuned deterministic validation. |
-| **Qaml** | Mathematical Transformers | Training a 65M-parameter model from first principles for sub-50ms suspicious pattern detection. |
+#### / SubDomain_01: Fundamental & Applied AI  (`FAiR` | `AAi`)
+*My Passion & Core Engineering Research Focus*
+| DOMAIN | EXECUTION PROFILE | TARGET DELIVERABLES |
+| :--- | :--- | :--- |
+| `FAiR` | Designing self-verifying software architectures, neural mapping logic, and theoretical multi-agent systems. | Algorithmic advancement and published research. |
+| `AAi` | Leveraging high-capacity API routing and optimized logic layers to build deployable proof-of-concepts. | Real-world productization and tool-building. |
 
----
+#### /  SubDomain_02:  Financial & Hobby Hedge  (`Q` | `SE`)
+*When the AI Bubble Bursts and Industry Recovers I Dont want to Starve*
+| DOMAIN | EXECUTION PROFILE | TARGET DELIVERABLES |
+| :--- | :--- | :--- |
+| `Q` | Performance-first engineering. Building systems that maximize hardware limits without dropping cycles. | High-frequency execution environments and quantitative tooling. |
+| `SE` | Headless node orchestration, custom kernel tuning, and scalable Infrastructure-as-Code. | Resilient, distributed edge-workstations. |
 
-### C. New Projects ( POCD - Pending )
+#### /  SubDomain_03: Academics & Legacy Maintenance (`TMC` | `FBOps`)
+*Managing Academic Adjacent Projects And Preserving My Skills Back from the BankOps & Payments Days*
+| DOMAIN | EXECUTION PROFILE | TARGET DELIVERABLES |
+| :--- | :--- | :--- |
+| `TMC` | Deep mathematical frameworks, combinatorics, and advanced systems theory. | **Exclusive:** Master's deliverables and adjacent research for TU Ilmenau. |
+| `FBOps` | Issue triage, dependency updates, and critical security patches for past work. | **Pivot Complete:** No new feature development planned. |
 
-| Project Title | Category | Strategic Objective |
-| --- | --- | --- |
-| **Preemptive Threat Agent** | **Applied AI #2** | Architecting an autonomous agentic framework for defense simulations via Stochastic Manifold Analysis. |
-| **Graceman Graph-Map** | **Theoretical CS #1** | Formal verification of self-healing software states using TLA+ and recursive graph mapping. |
-
----
 
 ## Collaborate With Me 
 
