@@ -19,8 +19,8 @@
 | **04** | `SE` | Systems Engineering | Linux internals, edge-node networking, IaaC, and distributed system design. | `[HOBBY]` |
 | **05** | `FBOps`| Fintech & BankOps | Legacy open-source financial operations. Strictly limited to critical triage. | `[LEGACY]` |
 | **Dynamic** | `TMC` | Theoretical Math & Computing | Ring-fenced exclusively for MSc Research (Computer & Systems Engineering) at TU Ilmenau. | `[ACADEMICS]` |
-| **Dynamic** | `CC` | Competitive Coding { Codeforces ; Leetcode }| `[mindFuck]` |
-| **Dynamic** | `Floss` | Free and Open Source Contributions from my end  | `[floss]` |
+| **Dynamic** | `CC` | Competitive-Coding | { Codeforces ; Leetcode } | `[mindFuck]`|
+| **Dynamic** | `Floss` | FLOSS  | Free and Open Source Contributions from my end | `[floss]`|
 
 ---
 
