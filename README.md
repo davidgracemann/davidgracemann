@@ -11,16 +11,16 @@
 
 ## [ Research & Engineering Portfolio ]
 
-| PRIORITY | DOMAIN | FOCUS AREA | STRATEGIC ALLOCATION | STATUS |
+| priority | domian_tag | domian_name | domain_fields | domain_auth |
 | :--- | :--- | :--- | :--- | :--- |
 | **01** | `FAiR` | Foundational AI Research | Multi-agent architectures, reasoning models, and core cognitive frameworks. | `[CORE]` |
 | **02** | `AAi` | Applied AI | Proof-of-designs, end-to-end implementations, and empirical model evaluation. | `[CORE]` |
 | **03** | `Q` | Quant & HPC | Low-latency engineering, numerical methods, and execution-grade infrastructure. | `[FIN HEDGE]` |
 | **04** | `SE` | Systems Engineering | Linux internals, edge-node networking, IaaC, and distributed system design. | `[HOBBY]` |
-| **05** | `FBOps`| Fintech & BankOps | Legacy open-source financial operations. Strictly limited to critical triage. | `[LEGACY]` |
-| **Dynamic** | `TMC` | Theoretical Math & Computing | Ring-fenced exclusively for MSc Research (Computer & Systems Engineering) at TU Ilmenau. | `[ACADEMICS]` |
-| **Dynamic** | `CC` | Competitive-Coding | { Codeforces ; Leetcode } | `[mindFuck]`|
-| **Dynamic** | `Floss` | FLOSS  | Free and Open Source Contributions from my end | `[floss]`|
+| **05** | `FBOps`| Fintech & BankOps | Legacy open-source financial Systems ; Payment Infra ; BankOps & GL | `[LEGACY]` |
+| **dynamic** | `TMC` | Theoretical Math & Computing | Ring-fenced exclusively for MSc Research (Computer & Systems Engineering) at TU Ilmenau. | `[ACADEMICS]` |
+| **dynamic** | `CC` | Competitive-Coding | { Codeforces ; Leetcode } selfLearningHub | `[mindFuck]`|
+| **dynamic** | `Floss` | FLOSS  | Free and Open Source Contributions from my end towareds indie & floss orgs | `[floss]`|
 
 ---
 
