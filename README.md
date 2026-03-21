@@ -1,6 +1,6 @@
 # David Grace
 
-### [ Vision ] " I can't guarantee you a win — but I can engineer failure to be mathematically expensive "
+### [ Vision ] " I can't guarantee you a win — but I can engineer systems that make failure mathematically expensive, bounded, and observable. "
 
 ### [ Chief Engineer ] @ [Graceman](https://github.com/gracemann365)
 
