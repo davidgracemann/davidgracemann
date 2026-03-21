@@ -1,10 +1,10 @@
 # David Grace
 
-### [ Vision ] " I can't guarantee you a win — but I can engineer systems that make failure mathematically expensive, bounded, and observable. "
+### > [ Vision ] " I can't guarantee you a win — but I can engineer systems that make failure mathematically expensive, bounded, and observable. "
 
-### [ Chief Engineer ] @ [Graceman](https://github.com/gracemann365)
+### > [ Chief Engineer ] @ [Graceman](https://github.com/gracemann365)
 
-### [ Research in Computer & Systems Engineering ] @ [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/study/before-the-study/range-of-courses/master/research-in-computer-systems-engineering-msc)
+### > [ Research in Computer & Systems Engineering ] @ [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/study/before-the-study/range-of-courses/master/research-in-computer-systems-engineering-msc)
 
 ---
 
