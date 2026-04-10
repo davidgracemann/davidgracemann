@@ -33,17 +33,17 @@ Both domains converge on the same deep problem: **what does it mean for an AI sy
 
 *Primary research and commercial direction. All infrastructure domains serve this pillar.*
 
-| Cluster | Subjects | Strategic Rationale |
-|:---|:---|:---|
-| **Computer Vision** | Object detection (YOLO-family), multi-object tracking, semantic segmentation, scene understanding | Foundation for perception stacks in ISR, drone, and surveillance systems |
-| **Edge AI & Embedded Inference** | TensorRT, ONNX Runtime, OpenVINO, NVIDIA Jetson ecosystem, INT8/FP16 quantisation | Field-deployed AI cannot assume cloud connectivity or unlimited power budget |
-| **Robotics & Autonomous Systems** | ROS2, SLAM, path planning (A\*, RRT, D\*), sensor fusion, localisation | Ground robotics and drone autonomy — the primary application layer |
-| **Signal Processing & Electronic Warfare** | DSP fundamentals, radar signal processing, EW principles, FFT, adaptive filtering | Surveillance systems and contested-spectrum operational context |
-| **Hardware & Embedded Systems** | FPGA fundamentals (Vivado/HLS), microcontroller programming, RTOS (FreeRTOS), PCIe/hardware interfaces | Deliberately closing the undergraduate gap — non-negotiable for this domain |
-| **Systems Engineering** | Linux internals, distributed edge compute, node orchestration, IaaC, tactical network stack | Infrastructure for deployed autonomous systems at the edge |
-| **Adversarial ML & Robustness** | Adversarial attack and defence, OOD detection, reliability under sensor noise and degradation | The verification problem that defines mission-critical AI |
-| **Secure & Resilient Communications** | Mesh networking, tactical comms protocols, applied cryptography, secure enclaves | Operations in denied or contested communication environments |
-| **HPC & Low-Latency Inference** | CUDA programming, kernel optimisation, latency profiling, memory bandwidth management | Real-time decision systems operating under hard latency budgets |
+| Codename | Cluster | Subjects | Strategic Rationale |
+|:---|:---|:---|:---|
+| `[CV]` | **Computer Vision** | Object detection (YOLO-family), multi-object tracking, semantic segmentation, scene understanding | Foundation for perception stacks in ISR, drone, and surveillance systems |
+| `[EAI]` | **Edge AI & Embedded Inference** | TensorRT, ONNX Runtime, OpenVINO, NVIDIA Jetson ecosystem, INT8/FP16 quantisation | Field-deployed AI cannot assume cloud connectivity or unlimited power budget |
+| `[RAS]` | **Robotics & Autonomous Systems** | ROS2, SLAM, path planning (A\*, RRT, D\*), sensor fusion, localisation | Ground robotics and drone autonomy — the primary application layer |
+| `[SPW]` | **Signal Processing & Electronic Warfare** | DSP fundamentals, radar signal processing, EW principles, FFT, adaptive filtering | Surveillance systems and contested-spectrum operational context |
+| `[HWE]` | **Hardware & Embedded Systems** | FPGA fundamentals (Vivado/HLS), microcontroller programming, RTOS (FreeRTOS), PCIe/hardware interfaces | Deliberately closing the undergraduate gap — non-negotiable for this domain |
+| `[SE]` | **Systems Engineering** | Linux internals, distributed edge compute, node orchestration, IaaC, tactical network stack | Infrastructure for deployed autonomous systems at the edge |
+| `[AML]` | **Adversarial ML & Robustness** | Adversarial attack and defence, OOD detection, reliability under sensor noise and degradation | The verification problem that defines mission-critical AI |
+| `[SRC]` | **Secure & Resilient Communications** | Mesh networking, tactical comms protocols, applied cryptography, secure enclaves | Operations in denied or contested communication environments |
+| `[HPC]` | **HPC & Low-Latency Inference** | CUDA programming, kernel optimisation, latency profiling, memory bandwidth management | Real-time decision systems operating under hard latency budgets |
 
 ---
 
@@ -51,17 +51,17 @@ Both domains converge on the same deep problem: **what does it mean for an AI sy
 
 *Parallel commercial direction. Shares mathematical foundations with Pillar III.*
 
-| Cluster | Subjects | Strategic Rationale |
-|:---|:---|:---|
-| **Financial Mathematics** | Stochastic calculus (Itô), Black-Scholes, interest rate models, derivatives pricing | Formal language of the domain — fluency required, not familiarity |
-| **Time Series & Statistical Modelling** | ARIMA/GARCH, Kalman filtering, cointegration, hidden Markov models, regime detection | Market signal extraction and structural break identification |
-| **Reinforcement Learning for Finance** | Deep RL (PPO, SAC), reward shaping for PnL, multi-agent market simulation | Execution strategy optimisation and adaptive portfolio management |
-| **Portfolio Optimisation** | Modern portfolio theory, convex optimisation, Black-Litterman, risk parity, factor attribution | Capital allocation and fund construction |
-| **Market Microstructure** | Order book dynamics, execution cost modelling, slippage, adverse selection, HFT mechanics | Operational environment understanding — not optional for production systems |
-| **Statistical Arbitrage** | Pairs trading, cross-sectional factor models, alpha generation, rigorous backtesting methodology | Core quantitative research loop |
-| **Risk Modelling** | VaR, CVaR, drawdown analysis, stress testing, tail risk quantification | Non-negotiable for any institutional-grade system |
-| **Quantitative Engineering Stack** | NumPy/SciPy/Pandas at depth, JAX for differentiable modelling, Zipline/Backtrader | Execution and experimentation environment |
-| **Low-Latency Execution Systems** | C++ fundamentals for HFT context, FIX protocol, order routing architecture | Ceiling-raiser for latency-sensitive strategy deployment |
+| Codename | Cluster | Subjects | Strategic Rationale |
+|:---|:---|:---|:---|
+| `[FMT]` | **Financial Mathematics** | Stochastic calculus (Itô), Black-Scholes, interest rate models, derivatives pricing | Formal language of the domain — fluency required, not familiarity |
+| `[TSM]` | **Time Series & Statistical Modelling** | ARIMA/GARCH, Kalman filtering, cointegration, hidden Markov models, regime detection | Market signal extraction and structural break identification |
+| `[RLF]` | **Reinforcement Learning for Finance** | Deep RL (PPO, SAC), reward shaping for PnL, multi-agent market simulation | Execution strategy optimisation and adaptive portfolio management |
+| `[PTO]` | **Portfolio Optimisation** | Modern portfolio theory, convex optimisation, Black-Litterman, risk parity, factor attribution | Capital allocation and fund construction |
+| `[MMS]` | **Market Microstructure** | Order book dynamics, execution cost modelling, slippage, adverse selection, HFT mechanics | Operational environment understanding — not optional for production systems |
+| `[SAB]` | **Statistical Arbitrage** | Pairs trading, cross-sectional factor models, alpha generation, rigorous backtesting methodology | Core quantitative research loop |
+| `[RSK]` | **Risk Modelling** | VaR, CVaR, drawdown analysis, stress testing, tail risk quantification | Non-negotiable for any institutional-grade system |
+| `[QES]` | **Quantitative Engineering Stack** | NumPy/SciPy/Pandas at depth, JAX for differentiable modelling, Zipline/Backtrader | Execution and experimentation environment |
+| `[LLE]` | **Low-Latency Execution Systems** | C++ fundamentals for HFT context, FIX protocol, order routing architecture | Ceiling-raiser for latency-sensitive strategy deployment |
 
 ---
 
@@ -69,18 +69,17 @@ Both domains converge on the same deep problem: **what does it mean for an AI sy
 
 *Mathematical and theoretical foundation layer. Ring-fenced for depth, not breadth. Exclusive output channel: MSc research.*
 
-| Cluster | Subjects | Strategic Rationale |
-|:---|:---|:---|
-| **Control Theory** | Classical control (PID, root locus), modern state-space (LQR, MPC), nonlinear systems | RCSE core — direct application to autonomous systems design |
-| **Systems Theory** | Dynamical systems, Lyapunov stability, observability and controllability | Maps directly to multi-agent AI architecture and coordination problems |
-| **Formal Methods & Verification** | TLA+, model checking, temporal logic, programme verification | Long-game bridge to the Deterministic AI research thesis |
-| **Optimisation Theory** | Convex optimisation, integer and combinatorial programming, Lagrangian methods | Shared with Pillar II — high-leverage double acquisition |
-| **Numerical Methods** | ODE/PDE solvers, numerical linear algebra, stability and convergence analysis | Underpins simulation fidelity across both operational pillars |
-| **Probability & Stochastic Processes** | Measure-theoretic probability, Markov chains, SDEs, martingales | Shared theoretical foundation with Pillar II quant modelling |
-| **Theoretical Computer Science** | Complexity theory, computability, algorithm analysis and lower bounds | Sharpens formal reasoning across all research activity |
-| **Linear Algebra at Research Depth** | Spectral theory, tensor algebra, matrix decompositions, operator theory | The actual mathematical language of ML at research level |
+| Codename | Cluster | Subjects | Strategic Rationale |
+|:---|:---|:---|:---|
+| `[CTR]` | **Control Theory** | Classical control (PID, root locus), modern state-space (LQR, MPC), nonlinear systems | RCSE core — direct application to autonomous systems design |
+| `[SYT]` | **Systems Theory** | Dynamical systems, Lyapunov stability, observability and controllability | Maps directly to multi-agent AI architecture and coordination problems |
+| `[FMV]` | **Formal Methods & Verification** | TLA+, model checking, temporal logic, programme verification | Long-game bridge to the Deterministic AI research thesis |
+| `[OPT]` | **Optimisation Theory** | Convex optimisation, integer and combinatorial programming, Lagrangian methods | Shared with Pillar II — high-leverage double acquisition |
+| `[NUM]` | **Numerical Methods** | ODE/PDE solvers, numerical linear algebra, stability and convergence analysis | Underpins simulation fidelity across both operational pillars |
+| `[PSP]` | **Probability & Stochastic Processes** | Measure-theoretic probability, Markov chains, SDEs, martingales | Shared theoretical foundation with Pillar II quant modelling |
+| `[TCS]` | **Theoretical Computer Science** | Complexity theory, computability, algorithm analysis and lower bounds | Sharpens formal reasoning across all research activity |
+| `[LAD]` | **Linear Algebra at Research Depth** | Spectral theory, tensor algebra, matrix decompositions, operator theory | The actual mathematical language of ML at research level |
 
----
 
 ## Domain Architecture
 
@@ -91,7 +90,7 @@ Both domains converge on the same deep problem: **what does it mean for an AI sy
                     │  Control Theory  ·  Formal Methods   │
                     │  Optimisation    ·  Stochastic Sys.  │
                     └───────────────┬──────────────────────┘
-                                    │ funds and formalises
+                                    │ Formalization Of Thesis
                ┌────────────────────┼────────────────────────┐
                ▼                                             ▼
 ┌──────────────────────────┐              ┌──────────────────────────────┐
