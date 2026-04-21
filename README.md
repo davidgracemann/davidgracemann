@@ -5,7 +5,7 @@
 | | |
 |:---|:---|
 | **Role** | Chief Engineer · [Graceman](https://github.com/gracemann365) [ Private Research Organizational Github ]|
-| **Academic** | Graduate Research Candidate, Research in Computer & Systems Engineering · [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/) |
+| **Academic** | Research Candidate, Research in Computer & Systems Engineering · [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/) |
 | **Academic Contact** | david.grace@tu-ilmenau.de |
 | **Private Research Outreach** | gracemann365@gmail.com |
 | **Priority Clients** | davidgracemann17@gmail.com |
