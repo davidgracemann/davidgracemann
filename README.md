@@ -4,8 +4,11 @@
 
 | | |
 |:---|:---|
-| **Role** | Chief Engineer · [Graceman](https://github.com/gracemann365) |
-| **Academic** | MSc Candidate, Research in Computer & Systems Engineering · [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/) |
+| **Role** | Chief Engineer · [Graceman](https://github.com/gracemann365) [ Private Research Organizational Github ]|
+| **Academic** | Graduate Research Candidate, Research in Computer & Systems Engineering · [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/) |
+| **Academic Contact** | david.grace@tu-ilmenau.de |
+| **Private Research Outreach** | gracemann365@gmail.com |
+| **Priority Clients** | davidgracemann17@gmail.com |
 
 
 ---
@@ -115,16 +118,6 @@ Both domains converge on the same deep problem: **what does it mean for an AI sy
                │   bounded, observable, expensive.  │
                └────────────────────────────────────┘
 ```
-
----
-
-## Contact
-
-| Channel | Address |
-|:---|:---|
-| **Email** | [gracemann365@gmail.com](mailto:gracemann365@gmail.com) |
-| **GitHub Org** | [github.com/gracemann365](https://github.com/gracemann365) |
-| **Personal** | [github.com/davidgracemann](https://github.com/davidgracemann) |
 
 ---
 
