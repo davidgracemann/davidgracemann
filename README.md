@@ -6,16 +6,18 @@
 |:---|:---|
 | **Role** | Chief Engineer · [Graceman](https://github.com/gracemann365) [ Private Research Organizational Github ]|
 | **Academic** | Research Candidate, Research in Computer & Systems Engineering · [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/) |
-| **Academic Contact** | david.grace@tu-ilmenau.de |
-| **Private Research Outreach** | gracemann365@gmail.com |
-| **Priority Clients** | davidgracemann17@gmail.com |
+| **Academic Contact** | david.grace@tu-ilmenau.de  msgCode : [ ACADTU ] |
+| **Research Outreach** | davidgracemann@graceman.de msgCode : [ GWL ] |
+| **Engineering Outreach** | gracemann365@gmail.com msgCode : [ SIMONS ] |
+| **Priority Personal** | davidgracemann17@gmail.com msgCode : [ NYC ] |
+| **Deprecated** | davidgrace003@gmail.com · *No longer an official communication channel* |
 
 
 ---
 
 ## Research Orientation
 
-Graceman is a research engineering organisation operating at the intersection of **autonomous systems**, **adversarial AI**, and **high-assurance machine intelligence**. The long-term thesis is the construction of AI systems whose failure modes are formally bounded — not probabilistically hoped away.
+[Graceman](https://github.com/gracemann365) is a research engineering organisation operating at the intersection of **autonomous systems**, **adversarial AI**, and **high-assurance machine intelligence**. The long-term thesis is the construction of AI systems whose failure modes are formally bounded — not probabilistically hoped away.
 
 The current phase is directed skill acquisition and empirical validation across two high-consequence application domains where the cost of AI failure is structurally intolerable:
 
@@ -121,4 +123,4 @@ Both domains converge on the same deep problem: **what does it mean for an AI sy
 
 ---
 
-*Last Update [April 2026]*
+*Last Update [May 2026]*
